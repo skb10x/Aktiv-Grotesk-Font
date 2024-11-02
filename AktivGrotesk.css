@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Light.ttf') format('truetype');
+    font-weight: 300; /* Light */
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Medium Oblique.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Regular Oblique.ttf') format('truetype');
+    font-weight: 400; /* Regular */
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular */
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Bold Oblique.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGrotesk Light Oblique.ttf') format('truetype');
+    font-weight: 300; /* Light */
+    font-style: oblique;
+}
